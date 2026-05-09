@@ -134,24 +134,13 @@ pip install -r requirements.txt
 Ejecutar:
 
 ```bash
-streamlit run app.py
+streamlit run nombre_del_archivo_principal.py
 ```
 
 Luego abrir en el navegador haciendo click en el link generado.
 
 
----
 
-# Estructura del proyecto
-
-```text
-dashboard-tecla-capacitacion/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-└── venv/
-```
 
 ---
 
